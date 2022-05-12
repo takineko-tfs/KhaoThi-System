@@ -10,4 +10,4 @@ This system is based on Khao Thi websites, made by FPT Group. These applications
 The applicatons (not include the website itself) have Creative Common License v3.0 (CC-BY)
 
 
-Our policy privacy is simple: We never collect your information, EVERY SINGLE ONE!
+Our privacy policy is simple: We never collect your information, EVERY SINGLE ONE!
