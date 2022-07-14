@@ -1,4 +1,4 @@
-# KhaoThiSystems
+# KhaoThi Systems
 This system is based on Khao Thi websites, made by FPT Group. These applications are used:
 
    + Nativefier (github.com/nativefier/nativefier)
