@@ -3,3 +3,5 @@ KhaoThiClient-Linux-arm64/KhaoThiClient-linux-arm64/KhaoThiClient filter=lfs dif
 KhaoThiClient-Linux-x64/KhaoThiClient-linux-x64/KhaoThiClient filter=lfs diff=lfs merge=lfs -text
 KhaoThiClient-macOS-arm64/KhaoThi Client-darwin-arm64/KhaoThi Client.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework filter=lfs diff=lfs merge=lfs -text
 KhaoThiClient-macOS-x64/KhaoThi Client-darwin-x64/KhaoThi Client.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework  filter=lfs diff=lfs merge=lfs -text
+KhaoThiClient-macOS-arm64\KhaoThi Client-darwin-arm64\KhaoThi Client.app\Contents\Frameworks\Electron Framework.framework\Versions\A\Electron Framework filter=lfs diff=lfs merge=lfs -text
+KhaoThiClient-macOS-x64\KhaoThi Client-darwin-x64\KhaoThi Client.app\Contents\Frameworks\Electron Framework.framework\Versions\A\Electron Framework filter=lfs diff=lfs merge=lfs -text
